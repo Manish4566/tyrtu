@@ -1,0 +1,6 @@
+{
+  "name": "Codex Builder",
+  "description": "An AI-powered website builder and development environment interface inspired by modern developer tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
